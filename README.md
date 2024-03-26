@@ -35,7 +35,7 @@ Ative o ambiente virtual (no Windows):
 
 #Uso
 
-Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
+Para iniciar o servidor de desenvolvimento, execute o seguinte comando dentro do diretório do projeto:
 
      python manage.py runserver
 
