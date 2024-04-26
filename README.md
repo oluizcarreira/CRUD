@@ -16,7 +16,7 @@ Instalação
 Clone este repositório para o seu computador:
 
 
-     git clone https://github.com/oluizcarreira/CRUD
+     git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 Extraia a pasta venv.
 
